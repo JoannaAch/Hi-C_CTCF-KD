@@ -13,7 +13,7 @@ RAW_DIR = rawdata
 #######################################################################
 ## SYSTEM AND SCHEDULER - Start Editing Here !!
 #######################################################################
-N_CPU = 28
+N_CPU = 16
 LOGFILE = hicpro.log
 
 JOB_NAME = lncap
